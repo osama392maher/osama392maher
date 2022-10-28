@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **osama392maher/osama392maher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
